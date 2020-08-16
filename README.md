@@ -1,3 +1,3 @@
-# ML codes for NLP and CV
+# Codes for NLP 
 
-This repos consists of codes and description for NLP and CV related projects. 
+This repos consists of codes and description for NLP projects. 
